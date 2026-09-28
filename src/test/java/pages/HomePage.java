@@ -27,4 +27,6 @@ public class HomePage {
         element.click();
     }
 }
+
+//search feature adding
  
